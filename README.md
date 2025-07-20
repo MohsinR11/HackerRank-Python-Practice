@@ -66,7 +66,7 @@ Share better solutions or explanations.
 If you find this useful, feel free to ⭐️ star the repo.
 Let’s grow together as Pythonistas! 🐍❤️
 
-👤 Author
+## 👤 Author
 
 **Mohsin Raza**
 
