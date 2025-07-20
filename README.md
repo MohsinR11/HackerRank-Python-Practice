@@ -46,11 +46,6 @@ Each problem folder includes the **problem number**, **problem statement**, **ta
 
 │ └── explanation.md
 
-├── ...
-
-yaml
-Copy
-Edit
 
 ---
 
