@@ -47,25 +47,26 @@ Each problem includes the **problem number**, **statement**, **task**, **solutio
 
 │   └── explanation.md
 
+---
 
-## ⚙️ How to Use
-📥 Clone this repo
+⚙️ How to Use
+ 📥 Clone this repo
 
 git clone https://github.com/your-username/HackerRank-Python-Practice.git
 🔍 Browse through problems
 Check each folder for problem statement, code, and explanation.
 
-## 🤝 Contribute
+🤝 Contribute
 
 Spot an improvement? Create a pull request!
 
 Share better solutions or explanations.
 
-## 🌟 Let’s Connect!
+🌟 Let’s Connect!
 If you find this useful, feel free to ⭐️ star the repo.
 Let’s grow together as Pythonistas! 🐍❤️
 
-## 👤 Author
+👤 Author
 
 **Mohsin Raza**
 
