@@ -31,18 +31,21 @@ Each problem includes the **problem number**, **statement**, **task**, **solutio
 
 /
 ├── Problem_01/
-│ ├── problem.md
-│ ├── solution.py
-│ └── explanation.md
-├── Problem_02/
-│ ├── problem.md
-│ ├── solution.py
-│ └── explanation.md
-...
 
-yaml
-Copy
-Edit
+│ ├── problem.md
+
+│ ├── solution.py
+
+│ └── explanation.md
+
+├── Problem_02/
+
+│ ├── problem.md
+
+│ ├── solution.py
+
+│ └── explanation.md
+
 
 ---
 
@@ -50,7 +53,6 @@ Edit
 
 1. 📥 **Clone this repo**
 
-   ```bash
    git clone https://github.com/your-username/HackerRank-Python-Practice.git
 🔍 Browse through problems
 Check each folder for the problem statement, code, and explanation.
