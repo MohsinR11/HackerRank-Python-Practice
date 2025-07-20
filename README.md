@@ -66,8 +66,7 @@ Share better solutions or explanations.
 If you find this useful, feel free to ⭐️ star the repo.
 Let’s grow together as Pythonistas! 🐍❤️
 
-## 👤 Author
+📬 Contact
 
-**Mohsin Raza**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsin--raza)
+- **Name:** Mohsin Raza
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsin--raza)
