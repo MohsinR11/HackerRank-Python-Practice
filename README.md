@@ -61,6 +61,7 @@ Check each folder for the problem statement, code, and explanation.
 
 
 🤝 **Contribute**
+
 Spot an improvement? Create a pull request!
 
 Found a better solution? Share it!
@@ -69,6 +70,7 @@ Have clearer explanations? Add them!
 
 
 🌟 **Let’s Connect!**
+
 If you find this useful, feel free to ⭐️ star the repo.
 
 Let’s grow together as Pythonistas! 🐍❤️
