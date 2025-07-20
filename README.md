@@ -55,22 +55,27 @@ Each problem includes the **problem number**, **statement**, **task**, **solutio
 
    git clone https://github.com/your-username/HackerRank-Python-Practice.git
    
-🔍 Browse through problems
+🔍 **Browse through problems**
 
 Check each folder for the problem statement, code, and explanation.
 
-🤝 Contribute
+
+🤝 **Contribute**
 Spot an improvement? Create a pull request!
 
 Found a better solution? Share it!
 
 Have clearer explanations? Add them!
 
-🌟 Let’s Connect!
+
+🌟 **Let’s Connect!**
 If you find this useful, feel free to ⭐️ star the repo.
+
 Let’s grow together as Pythonistas! 🐍❤️
 
-📬 Contact
-Name: Mohsin Raza
+
+📬 **Contact**
+
+Name: **Mohsin Raza**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsin--raza)
