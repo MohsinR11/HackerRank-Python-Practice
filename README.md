@@ -65,7 +65,7 @@ Each problem folder includes:
 ## ⚙️ How to Use
 
 1️⃣ **Clone this repo:**
-- git clone https://github.com/your-username/HackerRank-Python-Practice.git
+- git clone https://github.com/MohsinR11/HackerRank-Python-Practice.git
 
 2️⃣ **Browse through problems:**
 - Open each folder to read the problem statement, view the solution, and check the explanation.
