@@ -84,8 +84,7 @@ All contributions are welcome - from beginners to Python pros ❤️
 ---
 
 ## 🌟 Let’s Connect!
-If this repository helps you, **⭐ Star** it —  
-It motivates me and helps more learners discover it.  
+If this repository helps you, **⭐ Star** it -  It motivates me and helps more learners discover it.  
 
 Let’s grow together as Pythonistas! 🐍❤️  
 
@@ -95,8 +94,8 @@ Let’s grow together as Pythonistas! 🐍❤️
 
 **Mohsin Raza**  
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsin--raza)
-- 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsin--raza)
+
 ---
 
 💡 *Consistency turns skill into mastery. Every problem solved here is one step closer to Python excellence.* 🚀
