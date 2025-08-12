@@ -23,13 +23,13 @@ Each problem folder includes:
 ---
 
 ## 📚 Contents
-- **Problem Number** — for quick navigation  
-- **Problem Statement** — straight from HackerRank  
-- **Link** — direct access to the challenge  
-- **Task** — what’s required to solve it  
-- **Comments** — thought process, tips, and observations  
-- **Solution(s)** — clean, well-commented Python code  
-- **Explanation** — detailed reasoning for beginners & pros alike  
+- **Problem Number** - for quick navigation  
+- **Problem Statement** - straight from HackerRank  
+- **Link** - direct access to the challenge  
+- **Task** - what’s required to solve it  
+- **Comments** - thought process, tips, and observations  
+- **Solution(s)** - clean, well-commented Python code  
+- **Explanation** - detailed reasoning for beginners & pros alike  
 
 ---
 
@@ -79,7 +79,7 @@ Each problem folder includes:
 - 🚀 **Found an optimization?** Add it with clear explanations.  
 - 📚 **Can explain a concept more clearly?** Improve the documentation.  
 
-All contributions are welcome — from beginners to Python pros ❤️  
+All contributions are welcome - from beginners to Python pros ❤️  
 
 ---
 
@@ -92,6 +92,7 @@ Let’s grow together as Pythonistas! 🐍❤️
 ---
 
 ## 📬 Contact
+
 **Mohsin Raza**  
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsin--raza)
