@@ -92,7 +92,6 @@ Let’s grow together as Pythonistas! 🐍❤️
 ## 📬 Contact
 
 **Mohsin Raza**  
-
 Data Analytics, BI Development, SQL/Python, & AI/ML
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsin--raza)
