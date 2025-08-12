@@ -4,11 +4,10 @@
 ![HackerRank](https://img.shields.io/badge/HackerRank-Challenges-brightgreen?logo=hackerrank&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/your-username/HackerRank-Python-Practice?style=social)
 ![Forks](https://img.shields.io/github/forks/your-username/HackerRank-Python-Practice?style=social)
-![Last Commit](https://img.shields.io/github/last-commit/your-username/HackerRank-Python-Practice?color=blue)
 
 ---
 
-Welcome to **HackerRank Python Practice** 🚀 —  
+Welcome to **HackerRank Python Practice** 🚀 -  
 A curated collection of my **solved Python challenges** from [HackerRank](https://www.hackerrank.com/), organized for **learning, reference, and contribution**.
 
 Each problem folder includes:  
@@ -93,6 +92,8 @@ Let’s grow together as Pythonistas! 🐍❤️
 ## 📬 Contact
 
 **Mohsin Raza**  
+
+Data Analytics, BI Development, SQL/Python, & AI/ML
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsin--raza)
 
